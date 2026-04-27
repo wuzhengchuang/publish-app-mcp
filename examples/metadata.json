@@ -1,0 +1,14 @@
+{
+  "title": "My Awesome App",
+  "description": "This is an awesome app that does amazing things.",
+  "keywords": ["productivity", "tools", "utility"],
+  "release_notes": "Bug fixes and performance improvements.",
+  "localizations": [
+    {
+      "language": "zh-Hans",
+      "title": "我的应用",
+      "description": "这是一个很棒的应用。",
+      "release_notes": "修复了一些 bug 并提升了性能。"
+    }
+  ]
+}
